@@ -1,4 +1,4 @@
-//based on code from https://github.com/RishabKattimani/SwiftCameraPhotoLibrary
+
 
 //  laungageApp.swift
 //  laungage
